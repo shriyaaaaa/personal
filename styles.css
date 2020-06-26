@@ -5,6 +5,10 @@ padding-top: 80px;
 
 }
 
+
+p{
+	font-family: Gothic A1;
+}
 .container .links a{
 	color: grey;
 	font-family: 'Carme', cursive;
@@ -29,10 +33,50 @@ padding-top: 200px;
 
 .hi {
 
+	padding-top: 70px;
+}
+
+.socials{
+	text-align: center;
+	width: 100%;
+	padding-top: 10px;
+}
+.socials a i {
+
+	color: black;
+}
+
+.socials a i:hover {
+
+	color: #d1d1d1;
+}
+
+.socials #youtube i:hover {
+
+	color: red;
+}
+
+.container .links .active{
+	color: #d1d1d1;
+}
+
+.bakery {
+
 	padding-top: 70px
 }
 
-.socials {
+#site {
 
-	align-content: center;
+	color: black; 
+
 }
+
+#site:hover {
+
+	color: red; 
+	
+}
+
+
+
+
